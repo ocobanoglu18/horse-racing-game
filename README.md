@@ -1,5 +1,6 @@
 Horse Racing Game
 A web-based horse racing game built with Vue.js, simulating exciting horse races with interactive features and user authentication.
+<img width="1440" alt="Ekran Resmi 2024-12-05 13 37 44" src="https://github.com/user-attachments/assets/a6b3bb0d-eb99-43a7-83e2-5105247a302c">
 
 
 Table of Contents
